@@ -1,5 +1,5 @@
 # Investment Fund Builder
-First sketch for a simple, free and accessible index fund builder.
+First sketch for a simple, free and accessible investment fund builder.
 
 #### Features
 - [x] Rebalancing
