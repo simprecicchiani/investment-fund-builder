@@ -6,5 +6,5 @@ First sketch for a simple, free and accessible investment fund builder.
 - [x] Equal or custom weighted
 
 #### To Do
-- [] Accumulating / distributing
-- [] Capitalization weighted
+- [ ] Accumulating / distributing
+- [ ] Capitalization weighted
