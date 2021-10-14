@@ -1,0 +1,5 @@
+pandas
+numpy
+matplotlib
+requests_cache
+pandas_datareader
